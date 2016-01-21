@@ -1,5 +1,9 @@
-hello = false;
-goodbye = true;
+addedbufferstuff1 = 1;
+//comment for w/e
+hellorenamed = false;
+addedbufferstuff1 = 2;
+renamedgoodbye = true;
 
-
-checkingthisonce = true;
+addedbufferstuff1 = 3;
+checkingthistwice = true;
+addedbufferstuff1 = 4;

@@ -8,14 +8,15 @@
   <sprites name="sprites">
     <sprite>sprites\spr_test1</sprite>
     <sprite>sprites\spr_test2</sprite>
+    <sprite>sprites\spr_test3</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_test1_create.gml</script>
-    <script>scripts\scr_test1_step.gml</script>
     <script>scripts\scr_test2_create.gml</script>
-    <script>scripts\scr_test2_step.gml</script>
+    <script>scripts\scr_test3_create.gml</script>
+    <script>scripts\scr_test2_step_renamed.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_test1</object>
@@ -24,6 +25,7 @@
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
